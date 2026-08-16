@@ -1,5 +1,5 @@
-- 👋 Hi, I’m 0 to 1 -_-
-- 👀 I’m interested in coding -_-
+- 👋 print("Hello, world!") ==> This is Mohammad Ehsan -_-
+- 👀 Some guy who love programming -_-
 - 🌱 I love learning computer (every thing) -_-
 - 😄 Pronouns: none -_-
 - ⚡ Fun fact: No fact -_-
